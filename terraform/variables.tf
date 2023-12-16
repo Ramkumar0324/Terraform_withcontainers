@@ -67,7 +67,7 @@ variable "log_retention_in_days" {
 
 variable "ssh_pubkey_file" {
   description = "Path to an SSH public key"
-  default     = "/d/terraform/Terraform_withcontainers/terraform/california-region-key-pair.pub"
+  default     = "D:/terraform/Terraform_withcontainers/terraform/california-region-key-pair.pub"
 }
 
 
